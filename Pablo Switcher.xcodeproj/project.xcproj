@@ -11,6 +11,7 @@
     ],
   },
   "files": [
+    { "path": ".gitignore", "target-membership": [ "Pablo Switcher/resources" ] },
     { "path": "Pablo-Switcher-Info.plist" },
     { "kind": "folder", "path": "Pablo Switcher", "target-membership": [ "Pablo Switcher" ] },
     {
